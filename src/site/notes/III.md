@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/iii/"}
 ---
 
 Текут сладкие потоки гадости.
