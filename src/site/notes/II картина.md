@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-kartina/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ii-kartina/"}
 ---
 
 На экране. [[VII\|Сквер]] между Невским и Таврическим. В останках и мусоре — они перемешаны.
